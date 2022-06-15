@@ -74,134 +74,125 @@
             <!-- FILMES EM BREVE -->
             <br><br><br>
             <h2 class="text-white">FILMES EM BREVE</h2>
-            <div class="card-group col-md-11">
-                <div class="card">
-                    <img src="img/Foto4.jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title">Sonic</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Id itaque consequuntur labore fugiat ipsam, officiis suscipit odit recusandae, nobis, quas reiciendis quae? Dolore aperiam consequuntur corporis nesciunt dicta incidunt animi.</p>
-                    </div>
-                    <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
-                    </div>
-                </div>
-                <div class="card">
-                    <img src="img/Foto3.jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title">Doutor Estranho</h5>
-                        <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi expedita maiores provident corporis sunt, nisi rem dolorem delectus ipsam labore doloribus, libero accusamus vitae reprehenderit reiciendis nulla recusandae. Velit, id.</p>
-                    </div>
-                    <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
-                    </div>
-                </div>
-                <div class="card">
-                    <img src="img/Foto1.jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title">Maverick</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo provident ducimus totam facilis id, est vero perspiciatis in, optio ipsa magni fugiat ipsam? Reiciendis necessitatibus labore ducimus, fugit dolor tenetur?</p>
-                    </div>
-                    <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
-                    </div>
-                </div>
-                <div class="card">
-                    <img src="img/Foto1.jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title">Maverick</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo provident ducimus totam facilis id, est vero perspiciatis in, optio ipsa magni fugiat ipsam? Reiciendis necessitatibus labore ducimus, fugit dolor tenetur?</p>
-                    </div>
-                    <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
-                    </div>
-                </div>
-                <div class="card">
-                    <img src="img/Foto1.jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title">Maverick</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo provident ducimus totam facilis id, est vero perspiciatis in, optio ipsa magni fugiat ipsam? Reiciendis necessitatibus labore ducimus, fugit dolor tenetur?</p>
-                    </div>
-                    <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
-                    </div>
-                </div>
-                <div class="card">
-                    <img src="img/Foto1.jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title">Maverick</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo provident ducimus totam facilis id, est vero perspiciatis in, optio ipsa magni fugiat ipsam? Reiciendis necessitatibus labore ducimus, fugit dolor tenetur?</p>
-                    </div>
-                    <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
-                    </div>
-                </div>
-            </div>
-            <br><br>
-            <!-- /FILMES EM BREVE -->
-            <!-- NOTICIAS -->
             <div class="row">
-                <div class="col-md-6">
-                    <h1>NOTÍCIAS EM DESTAQUE</h1>
-                    <div class="card-bg-black" style="width: 40rem;">
-                        <img src="img/noticia1.jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <p class="card-text text-light">Então ele é ?</p>
+                <div class="row row-cols-1 row-cols-md-6 g-4">
+                    <div class="col">
+                        <div class="card h-100">
+                            <img src="img/Foto1.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                            </div>
                         </div>
                     </div>
-                    <div class="card-bg-black" style="width: 40rem;">
-                        <img src="img/noticia1.jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <p class="card-text text-light">Então ele é ?</p>
+                    <div class="col">
+                        <div class="card h-100">
+                            <img src="img/Foto2.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">This is a short card.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card h-100">
+                            <img src="img/Foto3.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card h-100">
+                            <img src="img/Foto4.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card h-100">
+                            <img src="img/Foto5.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card h-100">
+                            <img src="img/Foto6.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6">
-                    <div class="row">
-                        <div class="col-md-6">
-                            <div class="card">
-                                <img src="img/Foto1.jpg" class="card-img-top" alt="...">
-                                <div class="card-body">
-                                    <h5 class="card-title">Notícia</h5>
-                                 </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="card">
-                                <img src="img/Foto1.jpg" class="card-img-top" alt="...">
-                                <div class="card-body">
-                                    <h5 class="card-title">Notícia</h5>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="card">
-                                <img src="img/Foto1.jpg" class="card-img-top" alt="...">
-                                <div class="card-body">
-                                    <h5 class="card-title">Notícia</h5>
-                                 </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="card">
-                                <img src="img/Foto1.jpg" class="card-img-top" alt="...">
-                                <div class="card-body">
-                                    <h5 class="card-title">Notícia</h5>
-                                </div>
+                <br><br>
+                <!-- /FILMES EM BREVE -->
+                <p></p>
+                <p></p>
+                <!-- NOTICIAS -->
+                <div class="row">
+                    <div class="col-md-6">
+                        <h1>NOTÍCIAS EM DESTAQUE</h1>
+                        <div class="card-bg-black" style="width: 40rem;">
+                            <img src="img/noticia1.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <p class="card-text text-light">Lorem ipsum, dolor sit amet consectetur adipisicing elit. </p>
                             </div>
                         </div>
                     </div>
+                    <div class="col-md-6">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="card-bg-black">
+                                    <img src="img/Noticias2.jpg" class="card-img-top" href="https://www.adorocinema.com/noticias/filmes/noticia-163939/" alt="...">
+                                    <div class="card-body">
+                                        <p class="text-white">News</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="card-bg-black">
+                                    <img src="img/foto7.jpg" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <p class="text-white">News</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="card-bg-black">
+                                    <img src="img/Noticias3.jpg" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <p class="text-white">News</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="card-bg-black">
+                                    <img src="img/Noticias4.jpg" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <p class="text-white">News</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 
+                    </div>
                 </div>
-            </div>
 
-            <div class="cold-md-12">
-                < </div>
-                    <!-- /NOTICIAS -->
-                    <!-- RODAPÉ -->
-                    <?php include_once('inc/rodape.php'); ?>
-                    <!-- RODAPÉ -->
-            </div>
-            <!-- /CONTAINER -->
+                <div class="cold-md-12">
+                    < </div>
+                        <!-- /NOTICIAS -->
+                        <!-- RODAPÉ -->
+                        <?php include_once('inc/rodape.php'); ?>
+                        <!-- RODAPÉ -->
+                </div>
+                <!-- /CONTAINER -->
 
 </body>
 <!-- JS -->
